@@ -12,7 +12,7 @@ It is a personal project developed by me in Xcode using Swift5. It is basically 
 
 ## Screenshots
 
-<img src="ss.png" width="350" >
+<img src="ss.png" width="250" >
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
